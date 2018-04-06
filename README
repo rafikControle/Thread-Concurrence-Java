@@ -1,0 +1,7 @@
+All examples here are made on a Prefixes Sum using multiple threads.
+- implementing a Barrier using semaphores
+- implementing a Barrier using Locks and Conditions
+- implementing a Barrier using CyclicBarrier
+- implementing a Barrier using Tree Barrier
+- implementing a Barrier using SenseBarrier
+
